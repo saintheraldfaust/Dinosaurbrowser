@@ -10,7 +10,7 @@ Research. Moodboard. Collaborate. Stash. — all from one spatial workspace.
 
 <br />
 
-![Dinosaur Browser](assets/Dinosaur%20UI.webm)
+![Dinosaur Browser UI](assets/Hero%20UI.gif)
 
 <br />
 <br />
